@@ -1,67 +1,51 @@
-<div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
-</div>
+# Marcos Finkielsztajn
 
-<h3 align="center">
-  Hi, I'm Marcos Finkielsztajn
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+Full-Stack Developer based in Valencia, Spain, with a focus on backend development.
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack%20Developer;NestJS%20%7C%20Angular%20%7C%20MongoDB;Always%20learning%20and%20building;Open%20to%20collaborations%20%F0%9F%91%8B;Let's%20connect%20and%20code%20together!%20%F0%9F%92%BB&font=Fira%20Code&center=true&width=440&height=45">
-  </a>
-</p>
+I mainly work with TypeScript, NestJS, Angular and PostgreSQL. Most of my experience comes from building and maintaining business applications, working with APIs, databases, external integrations and background jobs.
 
+I enjoy working on both sides of an application, although backend architecture and solving integration problems are what interest me the most.
 
+## Projects
 
----
+### AMXpress
 
-- 👨‍💻 I'm a Fullstack Developer passionate about building modern web applications with Angular and NestJS.
-- 💬 Ask me about my experience with REST APIs, NestJs, and fullstack project development.
-- 🌱 I'm currently improving my skills in DevOps, clean architecture, and advanced TypeScript.
-- 🚀 Looking for professional opportunities in tech to grow and contribute in real-world projects.
+The main project I work on professionally. It's a logistics management platform used in day-to-day operations, covering shipment management, customer portals, administrative tools and courier workflows.
 
-## 🛠 &nbsp;Tech Stack
+I've worked on its backend services, B2B APIs, Mercado Libre integration, label generation and synchronization with a legacy system using Redis and BullMQ.
 
-#### 🔧 Languages
+### Kender Club
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)    
+A mobile-first platform connecting users with local businesses.
 
-#### 🖥️ Frameworks
+It includes place discovery, benefits, QR/NFC redemptions and separate interfaces for customers, businesses and administrators. A significant part of the backend work involves transactions, idempotency and keeping business data isolated.
 
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) 
-![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  
-![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
+### Kairo
 
-#### 🔧 Tools
+A job search and application management tool.
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+It discovers and monitors job opportunities, evaluates their compatibility with a user's profile and helps prepare applications. It uses background workers, external job sources and AI for specific parts of the workflow.
 
+### MAX Assistant
 
-### 🔗 &nbsp;Contact Me
+An AI assistant for AMXpress couriers.
 
-<div align="center">
-<a href="mailto:marcosfinkiel24@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/marcos-finkielsztajn/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://discord.com/users/MarcosFinkiel_24#2320"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-</div>
+It has its own backend and handles conversations, a knowledge base, hybrid search and RAG. The system separates information retrieval, decision-making and response generation, with integrations into operational services.
+
+## Technologies
+
+**Backend:** TypeScript, Node.js, NestJS, Prisma, REST APIs
+
+**Databases & queues:** PostgreSQL, Redis, BullMQ, SQLite
+
+**Frontend:** Angular, React, Next.js
+
+**Other:** Docker, Linux, Git, GitHub Actions, OpenAI API, pgvector
+
+## Contact
+
+- **Portfolio:** [marcosfinkiel.online](https://marcosfinkiel.online)
+- **LinkedIn:** [marcos-finkielsztajn](https://www.linkedin.com/in/marcos-finkielsztajn)
+- **Email:** [marcosfinkiel24@gmail.com](mailto:marcosfinkiel24@gmail.com)
+
+Most of my professional work is in private repositories. More details about the projects and their architecture are available on my portfolio.
